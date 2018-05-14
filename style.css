@@ -52,7 +52,14 @@ body {
         padding: 10px;
         
     }
-    
+    h3 {
+        background-color: #ebebeb;
+        color: #777;
+        margin-bottom: 10px;
+        text-align: center; 
+        margin-right: 10px;
+        margin-left: 10px;
+    }
     p {
         background-color: #ebebeb;
         color: #777;
