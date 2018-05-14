@@ -52,6 +52,7 @@ body {
         padding: 10px;
         
     }
+    
     h3 {
         background-color: #ebebeb;
         color: #777;
@@ -60,6 +61,7 @@ body {
         margin-right: 10px;
         margin-left: 10px;
     }
+    
     p {
         background-color: #ebebeb;
         color: #777;
@@ -76,7 +78,7 @@ body {
         width: 485px;
         margin-top: 10px;
         margin-left: 10px;
-        height: 159px;
+        height: 165px;
         text-align: center;
         display: inline-block;
     }
